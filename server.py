@@ -1,20 +1,28 @@
 from flask import Flask
-from flask import request
+from flask import request, Response, make_response
 from flask_cors import CORS
 import json
-import requests
 
 app = Flask(__name__)
 CORS(app)
 
-@app.route("/api/pius", methods=['GET'])
-def get_all_projects():
+@app.route("/api/teachers_projects", methods=['GET'])
+def get_all_teacher_projects():
     #função que retorna a lista de projetos
-    with open('projects_database.txt', 'r') as project_database:
+    resp = make_response()
+    resp.headers['X-Parachutes'] = 'parachutes are cool'
+    with open('teachers_projects_database.txt', 'r') as project_database:
         project_list = project_database.read()
     return json.dumps(project_list)
 
-@app.route("/cadastros", methods=['POST'])
+@app.route("/api/enterprises_projects", methods=['GET'])
+def get_all_enterprises_projects():
+    #função que retorna a lista de projetos
+    with open('enterprises_projects_database.txt', 'r') as project_database:
+        project_list = project_database.read()
+    return json.dumps(project_list)
+
+@app.route("/api/cadastros", methods=['POST'])
 def update_database():
     new_project = request.get_json()
     with open('projects_database.txt', 'r') as project_database:
