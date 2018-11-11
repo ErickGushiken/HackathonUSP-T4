@@ -10,7 +10,7 @@
         "Nome":"Aplicabilidade da Blockchain para uma rede Edge-Centric IoT",
         "Tags":["IoT", "Blockchain", "Edge-Centric", "Estudo de Escalabilidade", "Edge Computing"],
         "Descricao":"IoT é uma área em grande desenvolvimento, mas pela alta quantidade de dispositivos projetados para o futuro, o modelo centralizado em nuvem não será suficiente devido a problemas de latencia na transferencia de dados para a nuvem. Nesse contexto uma IoT mais focada em dispositivos de borda emerge como solução. Esse projeto estuda a aplicabilidade da tecnologia Blockchain usada na criptomoeda Bitcoin - ou adaptações desta - numa rede descentralizada de dispositivos IoT, utilizando como características base da análise a escalibidade, performance e segurança dessa tecnologia para esse cenário de IoT.",
-        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZPJ6nAxv5gt2hRLsQMkW5Venuv9lzcADFM5bYc6xRQW_HDggnA"
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZPJ6nAxv5gt2hRLsQMkW5Venuv9lzcADFM5bYc6xRQW_HDggnA",
         "href":"../ProjetoCiti/index.html"
     },
     {
