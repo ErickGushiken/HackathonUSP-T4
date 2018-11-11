@@ -1,8 +1,7 @@
 from flask import Flask
-from flask import request
+from flask import request, Response, make_response
 from flask_cors import CORS
 import json
-import requests
 
 app = Flask(__name__)
 CORS(app)
@@ -10,6 +9,8 @@ CORS(app)
 @app.route("/api/teachers_projects", methods=['GET'])
 def get_all_teacher_projects():
     #função que retorna a lista de projetos
+    resp = make_response()
+    resp.headers['X-Parachutes'] = 'parachutes are cool'
     with open('teachers_projects_database.txt', 'r') as project_database:
         project_list = project_database.read()
     return json.dumps(project_list)
