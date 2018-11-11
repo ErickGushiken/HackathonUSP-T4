@@ -1,0 +1,14 @@
+[
+    {
+        "Nome":"Serviço de Detecção de Objetos Baseado em Yolo", 
+        "Tags":["IA", "Yolo", "Visão Computacional"],
+        "Descrição":"Este projeto objetiva a criação de um serviço de nuvem de visão computacional baseado em Yolo para detecção de objetos em imagens de tamanhos variados especificados no HTTP request.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhOFQUpW3fsy7dI9F0XGYZtYw6GsDFsAoyz6Usjiz_ZK7Ob8I"
+    },
+    {
+        "Nome":"Eficiência Energética de Painéis Solares",
+        "Tags":["Painéis Solares", "Energia Elétrica", "Eficiência Energética", "Placas Fotovoltaicas"],
+        "Descrição":"Estudo da eficiência energética de diferentes tipos de painéis solares para diferentes ambientes de iluminação natual e diferentes posições geográficas e angulares.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabPC5Dg8aRcxyAPHTouHqgMREeCJRQCus6pCME7Epu0KsLzdW"
+    }
+]
