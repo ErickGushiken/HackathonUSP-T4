@@ -1,5 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 from flask import Flask
-from flask import request, Response, make_response
+from flask import request
 from flask_cors import CORS
 import json
 
@@ -11,14 +14,15 @@ def get_all_teacher_projects():
     #função que retorna a lista de projetos
     with open('teachers_projects_database.txt', 'r') as project_database:
         project_list = project_database.read()
-    return json.dumps(project_list)
+        print(type(project_list))
+    return json.dumps(json.loads(project_list))
 
 @app.route("/api/enterprises_projects", methods=['GET'])
 def get_all_enterprises_projects():
     #função que retorna a lista de projetos
     with open('enterprises_projects_database.txt', 'r') as project_database:
         project_list = project_database.read()
-    return json.dumps(project_list)
+    return json.dumps(json.loads(project_list))
 
 @app.route("/api/cadastros", methods=['POST'])
 def update_database():
