@@ -6,15 +6,10 @@
 
 body {
   padding-top: 54px;
-  
 }
+
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
-  
-.my-3{
-  text-justify: distribute-all-lines !important;
-  text-indent: 30px !important;
-}
 }
