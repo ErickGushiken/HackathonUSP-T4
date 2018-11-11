@@ -14,6 +14,7 @@
     {
         "Nome":"Programação com rede de Petri",
         "Tags":["Industria 4.0", "CLP", "Rapsberry Pi", "Rede de Petri"],
-        ""
+        "Descricao": "O projeto protosto consiste no desenvolvimento de um aplicativo para computador Raspberry Pi, que simula a atuação de um CLP cuja programação se dá de forma mais simplificada, feita por meio de alterações realizadas diretamente na Rede de Petri. Dessa forma, será possível evitar a conversão do modelo em Rede de Petri, depois de verificado e validado por simulação, para outra linguagem, tradicionalmente necessária para programar um CLP, como por exemplo a linguagem ladder.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKff3t5FYgx0NoBPu1lIpjexbGzPsDdRmkWNNYs1GG-JsfHM"
     }
 ]

@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 CORS(app)
 
-@app.route("/api/teachers_projects", methods=['GET'])
+@app.route("/api/teachers_projects/", methods=['GET'])
 def get_all_teacher_projects():
     #função que retorna a lista de projetos
     with open('teachers_projects_database.txt', 'r') as project_database:
