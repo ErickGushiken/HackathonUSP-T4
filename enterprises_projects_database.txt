@@ -1,32 +1,26 @@
 [
     {
-        "Nome":"",
-        "Tags":[],
-        "Descricao":"",
-        "Image":""
+        "Nome":"Centro de Ciência de Dados do Itau na USP",
+        "Tags":["Data Sciense", "Machine Learning", "Laboratório"],
+        "Descricao":"Banco Itaú procura orientadores e colaboradores para trabalhar no C2D, o novo centro de ciência de dados da USP localizado no prédio da Engenharia Elétrica da Poli-USP.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQ6Wnd9cIb5x-fBxyTmXmB2WZIX4mkLjaDN-lQTQnJ6YRaMPN"
     },
     {
-        "Nome":"",
-        "Tags":[],
-        "Descricao":"",
-        "Image":""
+        "Nome":"Laboratório de Informática Samsung Ocean na USP",
+        "Tags":["Laboratório", "Computadores", "Local de Eventos e Workshops"],
+        "Descricao":"Busca de profissionais técnicos e administrativos para colaborar no laboratório de informática Samsung Ocean de uso livre por alunos e eventos (palestras ou workshops) no prédio da Engenharia de Produção da Poli-USP.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcy7qNWuZj1g9j6z6bbyMmbZU_US3I3dt2Bgr0zO75hyhz28x"
     },
     {
-        "Nome":"",
-        "Tags":[],
-        "Descricao":"",
-        "Image":""
+        "Nome":"Projeto de Redução de Ruídos do Jato Comercial E190-E2 da Embraer",
+        "Tags":["Jatos Comerciais", "Redução de Ruídos", "Aeronáutica"],
+        "Descricao":"A Embraer começará a vender o novo jato comercial E190-E2, o primeiro a ser equipado com uma nova tecnologia para reduzir ruídos, desenhada para atender às novas normas impostas por reguladores dos Estados Unidos e da Europa. Mais do que isso, porém, o avião será resultado de um esforço de pesquisa da fabricante em conjunto com cinco universidades brasileiras, um potencial de união entre academias e iniciativa privada para impulsionar a inovação. Venha fazer parte desse projeto!",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajEl2yAwU8KBpYhCdTY40NiP1c4ItMzDGRtES7w6rBnle5fx1aQ"
     },
     {
-        "Nome":"",
-        "Tags":[],
-        "Descricao":"",
-        "Image":""
-    },
-    {
-        "Nome":"",
-        "Tags":[],
-        "Descricao":"",
-        "Image":""
+        "Nome":"Projeto da Marinha para Desenvolvimento de Submarino Autônomo",
+        "Tags":["Marinha do Brasil", "Submarino", "Veículos Autônomos", "Inteligência Artificial", "IoT"],
+        "Descricao":"Procuramos pesquisadores para trabalhar em um projeto que objetiva desenvolver um submarino completamente autônomo, aplicando conceitos do state-of-the-art de Inteligência Artificial e Internet das Coisas.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKybVqqlQphVQzAKJf1PT7z4JZushqYwSW4Ysdt15aHucNJfLNQ"
     }
 ]
