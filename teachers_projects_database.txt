@@ -10,5 +10,10 @@
         "Tags":["Painéis Solares", "Energia Elétrica", "Eficiência Energética", "Placas Fotovoltaicas"],
         "Descricao":"Estudo da eficiência energética de diferentes tipos de painéis solares para diferentes ambientes de iluminação natual e diferentes posições geográficas e angulares.",
         "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabPC5Dg8aRcxyAPHTouHqgMREeCJRQCus6pCME7Epu0KsLzdW"
+    },
+    {
+        "Nome":"Programação com rede de Petri",
+        "Tags":["Industria 4.0", "CLP", "Rapsberry Pi", "Rede de Petri"],
+        ""
     }
 ]
