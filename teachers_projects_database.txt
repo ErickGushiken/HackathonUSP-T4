@@ -1,5 +1,17 @@
 [
     {
+        "Nome":"Programação com rede de Petri",
+        "Tags":["Industria 4.0", "CLP", "Rapsberry Pi", "Rede de Petri"],
+        "Descricao": "O projeto protosto consiste no desenvolvimento de um aplicativo para computador Raspberry Pi, que simula a atuação de um CLP cuja programação se dá de forma mais simplificada, feita por meio de alterações realizadas diretamente na Rede de Petri. Dessa forma, será possível evitar a conversão do modelo em Rede de Petri, depois de verificado e validado por simulação, para outra linguagem, tradicionalmente necessária para programar um CLP, como por exemplo a linguagem ladder.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKff3t5FYgx0NoBPu1lIpjexbGzPsDdRmkWNNYs1GG-JsfHM"
+    },
+    {
+        "Nome":"Aplicabilidade da Blockchain para uma rede Edge-Centric IoT",
+        "Tags":["IoT", "Blockchain", "Edge-Centric", "Estudo de Escalabilidade"],
+        "Descricao":"IoT é uma área em grande desenvolvimento, mas pela alta quantidade de dispositivos projetados para o futuro, o modelo centralizado em nuvem não será suficiente devido a problemas de latencia na transferencia de dados para a nuvem. Nesse contexto uma IoT mais focada em dispositivos de borda emerge como solução. Esse projeto estuda a aplicabilidade da tecnologia Blockchain usada na criptomoeda Bitcoin - ou adaptações desta - numa rede descentralizada de dispositivos IoT, utilizando como características base da análise a escalibidade, performance e segurança dessa tecnologia para esse cenário de IoT.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZPJ6nAxv5gt2hRLsQMkW5Venuv9lzcADFM5bYc6xRQW_HDggnA"
+    },
+    {
         "Nome":"Serviço de Detecção de Objetos Baseado em Yolo", 
         "Tags":["IA", "Yolo", "Visão Computacional"],
         "Descricao":"Este projeto objetiva a criação de um serviço de nuvem de visão computacional baseado em Yolo para detecção de objetos em imagens de tamanhos variados especificados no HTTP request.",
@@ -12,9 +24,9 @@
         "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabPC5Dg8aRcxyAPHTouHqgMREeCJRQCus6pCME7Epu0KsLzdW"
     },
     {
-        "Nome":"Programação com rede de Petri",
-        "Tags":["Industria 4.0", "CLP", "Rapsberry Pi", "Rede de Petri"],
-        "Descricao": "O projeto protosto consiste no desenvolvimento de um aplicativo para computador Raspberry Pi, que simula a atuação de um CLP cuja programação se dá de forma mais simplificada, feita por meio de alterações realizadas diretamente na Rede de Petri. Dessa forma, será possível evitar a conversão do modelo em Rede de Petri, depois de verificado e validado por simulação, para outra linguagem, tradicionalmente necessária para programar um CLP, como por exemplo a linguagem ladder.",
-        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKff3t5FYgx0NoBPu1lIpjexbGzPsDdRmkWNNYs1GG-JsfHM"
+        "Nome":"Controle Ativo de Aletas em Foquetes",
+        "Tags":["Aleta", "Foquete", "Polso de Foquetes", "Controle de Foquetes"],
+        "Descricao":"Uso de controle ativo de Aletas para proporcionar mais controle do vôo de foquetes, incluindo melhorias perceptíveis no polso.",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSxUQWemeUmbLXRRPoc2Wf-lL4QXNwmEwVkxduz-maL4qegB_"
     }
 ]
